@@ -9,7 +9,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Replace text for my personals
 - Font size on start page had been decreased
 - Columns width had been expanded for fill whole viewport
-- Adjust padding in about section for low resolution
 
 ### Removed
 - All sections had been removed except Start and About
