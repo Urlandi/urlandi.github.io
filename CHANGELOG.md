@@ -12,7 +12,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Removed
 - All sections had been removed except Start and About
-- Google map integration had been removed
+- Google maps integration had been removed
 
 ## 0.1.0 - 2017-12-21
 ### Added
