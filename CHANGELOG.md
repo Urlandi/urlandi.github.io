@@ -5,6 +5,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+## [1.0.0] - 2020-05-15
 ### Changed
 - Grayscale major version 5 
 ### Added
@@ -28,5 +30,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Fork from https://github.com/BlackrockDigital/startbootstrap-grayscale
 
 
-[Unreleased]: https://github.com/urlandi/startbootstrap-grayscale/compare/v0.1.1...HEAD
+[Unreleased]: https://github.com/urlandi/startbootstrap-grayscale/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/urlandi/startbootstrap-grayscale/compare/v0.1.1...v1.0.0
 [0.1.1]: https://github.com/urlandi/startbootstrap-grayscale/compare/v0.1.0...v0.1.1
