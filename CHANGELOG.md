@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [Unreleased]
 ### Changed
  - English grammar
+ - Still Cisco certified
 ## [1.0.0] - 2020-05-15
 ### Changed
 - Grayscale major version 5 
