@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 ### Changed
+- Grayscale major version 7
+## [1.9.0] - 2025-06-09
+### Changed
  - English grammar
  - Still Cisco certified
 ## [1.0.0] - 2020-05-15
@@ -32,6 +35,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Fork from https://github.com/BlackrockDigital/startbootstrap-grayscale
 
 
-[Unreleased]: https://github.com/urlandi/startbootstrap-grayscale/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/urlandi/startbootstrap-grayscale/compare/v1.9.0...HEAD
+[1.9.0]: https://github.com/urlandi/startbootstrap-grayscale/compare/v1.0.0...v1.9.0
 [1.0.0]: https://github.com/urlandi/startbootstrap-grayscale/compare/v0.1.1...v1.0.0
 [0.1.1]: https://github.com/urlandi/startbootstrap-grayscale/compare/v0.1.0...v0.1.1
